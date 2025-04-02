@@ -19,6 +19,7 @@ export default function Home() {
   return (
    <div>
       <h3>RANDOM NUMBER:{randomnumber}</h3>
+      <h3>changes</h3>
    </div>
   );
 }
